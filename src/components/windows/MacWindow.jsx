@@ -2,7 +2,7 @@ import React from 'react'
 import { Rnd } from 'react-rnd'
 import './macwindow.scss'
 
-const MacWindow = (children) => {
+const MacWindow = ({children}) => {
   return (
    <Rnd>
     <div className="window">

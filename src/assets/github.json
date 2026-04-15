@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "image": "https://raw.githubusercontent.com/github/explore/main/topics/chatbot/chatbot.png",
+    "title": "AI Chat Assistant",
+    "description": "A real-time AI-powered chat assistant with NLP, context awareness, and API integrations.",
+    "tags": ["React", "Node.js", "OpenAI", "Socket.io"],
+    "repoLink": "https://github.com/mckaywrigley/chatbot-ui",
+    "demoLink": "https://chatbot-ui.vercel.app"
+  },
+  {
+    "id": 2,
+    "image": "https://raw.githubusercontent.com/github/explore/main/topics/ecommerce/ecommerce.png",
+    "title": "E-commerce Platform",
+    "description": "Full-stack e-commerce app with authentication, product management, and Stripe payments.",
+    "tags": ["Next.js", "MongoDB", "Stripe", "Express"],
+    "repoLink": "https://github.com/vercel/commerce",
+    "demoLink": "https://commerce.vercel.app"
+  },
+  {
+    "id": 3,
+    "image": "https://raw.githubusercontent.com/github/explore/main/topics/project-management/project-management.png",
+    "title": "Task Manager",
+    "description": "Kanban-style task management system with drag-and-drop and real-time sync.",
+    "tags": ["React", "Firebase", "TailwindCSS", "DND"],
+    "repoLink": "https://github.com/atlassian/react-beautiful-dnd",
+    "demoLink": "https://react-beautiful-dnd.netlify.app"
+  },
+  {
+    "id": 4,
+    "image": "https://raw.githubusercontent.com/github/explore/main/topics/portfolio/portfolio.png",
+    "title": "Developer Portfolio",
+    "description": "Responsive portfolio site with animations and project showcase.",
+    "tags": ["HTML", "CSS", "JavaScript", "GSAP"],
+    "repoLink": "https://github.com/devias-io/material-kit-react",
+    "demoLink": "https://material-kit-react.devias.io"
+  },
+  {
+    "id": 5,
+    "image": "https://raw.githubusercontent.com/github/explore/main/topics/weather/weather.png",
+    "title": "Weather Dashboard",
+    "description": "Weather dashboard showing real-time forecasts and analytics using APIs.",
+    "tags": ["JavaScript", "API", "Chart.js", "CSS"],
+    "repoLink": "https://github.com/brianc/node-postgres-weather-app",
+    "demoLink": "https://weather-app-demo.netlify.app"
+  }
+]
