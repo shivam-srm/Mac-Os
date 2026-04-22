@@ -1,0 +1,46 @@
+/* cli.scss */
+
+.cli-window {
+  width: 100%;
+  height: 100%;
+  background: #000;
+  border-radius: 10px;
+  overflow: hidden;
+
+  font-family: "JetBrains Mono", monospace;
+  font-size: 13px;
+  color: #00ff9c;
+
+  box-shadow: 0 0 20px rgba(0, 255, 156, 0.15);
+
+  div[name="react-console-emulator"] {
+    width: 100%;
+    height: 100%;
+    background: #000 !important;
+    padding: 12px;
+    box-sizing: border-box;
+    white-space: pre-wrap;
+  }
+
+  /* FIX: keep prompt in one line */
+  div[name="react-console-emulator"] span {
+    display: inline !important;
+  }
+
+  div[name="react-console-emulator"] > div {
+    display: inline !important;
+  }
+
+  * {
+    background: transparent !important;
+  }
+
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #262726;
+    border-radius: 10px;
+  }
+}

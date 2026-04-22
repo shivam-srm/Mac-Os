@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f",
+    "title": "AI Chat Assistant",
+    "description": "A real-time AI-powered chat assistant with NLP, context awareness, and API integrations.",
+    "tags": ["React", "Node.js", "OpenAI", "Socket.io"],
+    "repoLink": "https://github.com/mckaywrigley/chatbot-ui",
+    "demoLink": "https://chatbot-ui.vercel.app"
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b",
+    "title": "E-commerce Platform",
+    "description": "Full-stack e-commerce app with authentication, product management, and payment integration.",
+    "tags": ["Next.js", "MongoDB", "Stripe", "Express"],
+    "repoLink": "https://github.com/vercel/commerce",
+    "demoLink": "https://commerce.vercel.app"
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c",
+    "title": "Task Management System",
+    "description": "Kanban-style task manager with drag-and-drop functionality and real-time updates.",
+    "tags": ["React", "Firebase", "TailwindCSS", "DND"],
+    "repoLink": "https://github.com/atlassian/react-beautiful-dnd",
+    "demoLink": "https://react-beautiful-dnd.netlify.app"
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "title": "Developer Portfolio",
+    "description": "Modern responsive portfolio website with animations and project showcase.",
+    "tags": ["HTML", "CSS", "JavaScript", "GSAP"],
+    "repoLink": "https://github.com/devias-io/material-kit-react",
+    "demoLink": "https://material-kit-react.devias.io"
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6",
+    "title": "Weather Dashboard",
+    "description": "Interactive weather dashboard displaying real-time forecasts and analytics.",
+    "tags": ["JavaScript", "API", "Chart.js", "CSS"],
+    "repoLink": "https://github.com/brianc/node-postgres-weather-app",
+    "demoLink": "https://weather-app-demo.netlify.app"
+  }
+]

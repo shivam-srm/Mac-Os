@@ -1,0 +1,18 @@
+terminal
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   package-lock.json
+#	modified:   package.json
+#	modified:   src/App.jsx
+#	new file:   src/components/windows/Cli.jsx
+#	modified:   src/components/windows/MacWindow.jsx
+#	new file:   src/components/windows/Spotify.jsx
+#	new file:   src/components/windows/cli.scss
+#	new file:   src/components/windows/spotify.scss
+#	modified:   src/main.jsx
+#
